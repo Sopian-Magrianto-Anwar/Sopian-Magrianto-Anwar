@@ -3,7 +3,7 @@
 
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> <b> About Me : </b>
 <pre>
-a Fullstack Engineer & Mobile Engineer with over 6 years of experience in the technology industry. Driven by structural logic and enterprise-grade architecture, I bridge the gap between highly secure, scalable backend services and seamless, user-centric interfaces across web and mobile platforms.
+I'm a Fullstack Engineer & Mobile Engineer with over 6 years of experience in the technology industry. Driven by structural logic and enterprise-grade architecture, I bridge the gap between highly secure, scalable backend services and seamless, user-centric interfaces across web and mobile platforms.
 
 Throughout my career, I have specialized in crafting full-cycle applications from database design and microservices architecture to deployment and cloud infrastructure management. With a strong foundation in modern technology stacks, I am passionate about solving complex engineering problems through clean, maintainable, and high-performance code.
 
